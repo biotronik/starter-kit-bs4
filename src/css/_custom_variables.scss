@@ -1,0 +1,6 @@
+// Theme Colors
+$theme-colors: ("primary": #587992,
+"secondary": #00234C);
+// Spacers
+$spacers: map-merge((6: ($spacer * 6), 7: ($spacer * 9)),
+$spacers);

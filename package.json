@@ -1,0 +1,17 @@
+{
+  "name": "bs4-starter",
+  "version": "1.0.0",
+  "description": "starter template",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel ./src/index.html"
+  },
+  "author": "Noah Wong",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "^9.1.5",
+    "bootstrap": "^4.1.3",
+    "node-sass": "^4.9.3",
+    "parcel-bundler": "^1.9.7"
+  }
+}
